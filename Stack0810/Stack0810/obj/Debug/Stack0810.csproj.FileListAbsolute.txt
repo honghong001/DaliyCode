@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Stack0810\Stack0810\obj\Debug\Stack0810.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Stack0810\Stack0810\obj\Debug\Stack0810.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Stack0810\Stack0810\obj\Debug\Stack0810.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Stack0810\Stack0810\bin\Debug\Stack0810.exe.config
+C:\Users\admin\source\repos\Stack0810\Stack0810\bin\Debug\Stack0810.exe
+C:\Users\admin\source\repos\Stack0810\Stack0810\bin\Debug\Stack0810.pdb
+C:\Users\admin\source\repos\Stack0810\Stack0810\obj\Debug\Stack0810.exe
+C:\Users\admin\source\repos\Stack0810\Stack0810\obj\Debug\Stack0810.pdb
